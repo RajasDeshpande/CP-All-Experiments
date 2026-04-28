@@ -34,6 +34,9 @@ This repository contains my experimental work and problem-solving journey for th
 - 🎯 **Problem Solving (Basic)** Certified 
 - 🎯 **Problem Solving (Intermediate)** Certified
 - 🎯 **SCALER Data Structures in C++ Course** Certified
+- 🎯 **Technophilia** Certified
+
+
 ---
 
 ## 📂 Repository Structure
